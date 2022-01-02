@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5CCE90983939AEB635E60C0C"
+               BuildableName = "SwiftUI_StopWatch_Review.app"
+               BlueprintName = "SwiftUI_StopWatch_Review"
+               ReferencedContainer = "container:SwiftUI_StopWatch_Review.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "5CCE90983939AEB635E60C0C"
+            BuildableName = "SwiftUI_StopWatch_Review.app"
+            BlueprintName = "SwiftUI_StopWatch_Review"
+            ReferencedContainer = "container:SwiftUI_StopWatch_Review.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
